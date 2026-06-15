@@ -38,7 +38,7 @@ A professional trading journal with a modern glassmorphism interface, elegant an
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/karim2762/Ecom.git
+git clone https://github.com/karim2762/trade.git
 ```
 
 2. Open the project folder.
