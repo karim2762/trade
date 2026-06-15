@@ -30,7 +30,7 @@
 
 A professional trading journal with a modern glassmorphism interface, elegant animations, customizable appearance, and detailed performance tracking.
 
-🌐 **Live Preview:** (https://kexer-demo.netlify.app/)
+🌐 **Live Preview:** https://kexer-demo.netlify.app/
 ---
 
 ## 🚀 Getting Started
@@ -38,7 +38,7 @@ A professional trading journal with a modern glassmorphism interface, elegant an
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/kexer-trading-journal.git
+git clone https://github.com/karim2762/Ecom.git
 ```
 
 2. Open the project folder.
