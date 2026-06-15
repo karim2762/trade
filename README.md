@@ -29,6 +29,7 @@
 ## 🖥️ Preview
 
 A professional trading journal with a modern glassmorphism interface, elegant animations, customizable appearance, and detailed performance tracking.
+
 🌐 **Live Preview:** https://kexer-demo.netlify.app/
 ---
 
